@@ -4,7 +4,7 @@ Aspiring Cybersecurity Professional | Lifelong Learner | Building Skills Through
 
 About Me
 
-I am passionate about cybersecurity, networking, Linux, programming, and technology. Since beginning my learning journey in 2025, I have been committed to developing practical skills through labs, projects, research, and continuous learning.
+I am passionate about cybersecurity, networking, Linux, programming, and technology. Since beginning my learning journey in 2025, I have been committed to developing practical skills through labs, [...]
 
 This GitHub serves as my professional portfolio, documenting my growth, experiments, projects, certifications, and contributions as I progress toward a career in cybersecurity.
 
@@ -44,6 +44,11 @@ Study notes, learning resources, certification preparation materials, and techni
 Certifications
 
 This section will be updated as certifications are earned throughout my cybersecurity journey.
+
+CERTIFICATES
+
+- [Download: Getting Started with Cisco Packet Tracer (PDF)](https://github.com/charlesmuriuki152-sketch/Packet-Tracer-Wireless-Lab/raw/main/Getting_Started_with_Cisco_Packet_Tracer_certificate_charlesmuriuki152-gmail-com_1947a033-a344-4516-a3df-14db68d01687.pdf)
+- [Download: Introduction to Cybersecurity — Cisco Academy (PDF)](https://github.com/charlesmuriuki152-sketch/charlesmuriuki152/raw/main/certificates/I2CSUpdate20260213-31-q9siso.pdf)
 
 Learning Journey
 
